@@ -1,4 +1,4 @@
-# CSE331 Microprocessor Interfacing & Embedded System 
+# Microprocessor Interfacing & Embedded System 
 
 ## Readings
 * https://developer.arm.com/documentation/107829/0201/What-is-assembly-language
